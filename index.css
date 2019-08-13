@@ -1,0 +1,21 @@
+* {
+  magin: 0;
+  padding: 0;
+  box-sizing: border-box;;
+}
+.student-titile {
+  text-align: center;
+}
+.info-section {
+  display: flex;
+  justify-content: space-evenly;
+}
+.info-list {
+  margin-top: 200px;
+  font-size: 20px;
+}
+.details-section {
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+}
